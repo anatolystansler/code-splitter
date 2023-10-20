@@ -5,6 +5,7 @@
 *.interp
 *.tokens
 antlr*.jar
+input.c
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
