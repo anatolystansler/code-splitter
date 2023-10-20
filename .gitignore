@@ -2,6 +2,8 @@
 *Lexer.*
 *Parser.*
 *Listener.*
+*.interp
+*.tokens
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
