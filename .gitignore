@@ -4,6 +4,7 @@
 *Listener.*
 *.interp
 *.tokens
+antlr*.jar
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
